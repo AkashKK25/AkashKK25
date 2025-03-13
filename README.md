@@ -1,6 +1,6 @@
-<!-- Typing effect text banner -->
+<!-- Typing effect text banner - increased width to 850px -->
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=750&lines=Hi+there%2C+I'm+Akash+Kumar+Kondaparthi;Data+Scientist+%26+Machine+Learning+Engineer;Transforming+data+into+actionable+insights" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=850&lines=Hi+there%2C+I'm+Akash+Kumar+Kondaparthi;Data+Scientist+%26+Machine+Learning+Engineer;Transforming+data+into+actionable+insights" alt="Typing SVG" /></a>
 </div>
 
 <!-- Profile views counter -->
@@ -8,10 +8,10 @@
   <img src="https://komarev.com/ghpvc/?username=akashkk25&label=Profile%20Views&color=3b82f6&style=flat" alt="Profile Views" />
 </p>
 
-<!-- Introduction -->
-<p align="center">
-  <img src="https://i.imgur.com/jSGCuTu.gif" alt="Data Visualization" height="250px" />
-</p>
+<!-- Introduction - Using a GitHub-friendly approach instead of external image -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/dev-working_rounded.gif" alt="Data Science Animation" width="250" />
+</div>
 
 ## 👨‍💻 About Me
 
@@ -56,16 +56,16 @@ I'm a Data Scientist and Machine Learning Engineer with a Master's from the Univ
         <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
         <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
         <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"><img style="margin: 10px" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" height="50" /></a>  
-        <a href="https://www.ibm.com/products/db2" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Db2_logo.svg/1200px-Db2_logo.svg.png" alt="DB2" height="50" /></a>
+        <a href="https://www.ibm.com/products/db2" target="_blank"><img style="margin: 10px" src="https://www.vectorlogo.zone/logos/ibm/ibm-icon.svg" alt="DB2" height="50" /></a>
       </div>
     </td>
     <td valign="top" width="25%">
       <h3>Visualization & Cloud</h3>
       <div align="center">  
-        <a href="https://powerbi.microsoft.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" height="50" /></a>  
-        <a href="https://www.tableau.com/" target="_blank"><img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="Tableau" height="50" /></a>  
+        <a href="https://powerbi.microsoft.com/" target="_blank"><img style="margin: 10px" src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="Power BI" height="50" /></a>  
+        <a href="https://www.tableau.com/" target="_blank"><img style="margin: 10px" src="https://www.vectorlogo.zone/logos/tableau/tableau-icon.svg" alt="Tableau" height="50" /></a>  
         <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
-        <a href="https://spark.apache.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" alt="Apache Spark" height="50" /></a>  
+        <a href="https://spark.apache.org/" target="_blank"><img style="margin: 10px" src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" alt="Apache Spark" height="50" /></a>  
         <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>
       </div>
     </td>
@@ -76,14 +76,14 @@ I'm a Data Scientist and Machine Learning Engineer with a Master's from the Univ
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akashkk25&show_icons=true&count_private=true&hide_border=true&theme=react" align="center" style="width: 47%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=akashkk25&show_icons=true&count_private=true&hide_border=true&theme=react" align="center" style="width: 47%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=akashkk25&theme=react&hide_border=true" align="center" style="width: 47%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashkk25&layout=compact&theme=react&hide_border=true" align="center" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=akashkk25&layout=compact&theme=react&hide_border=true" align="center" />
 </div>
 
 <!-- Featured projects section -->
@@ -91,16 +91,16 @@ I'm a Data Scientist and Machine Learning Engineer with a Master's from the Univ
 
 <div align="center">
   <a href="https://github.com/AkashKK25/Movie-Profitability-Analysis">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=akashkk25&repo=Movie-Profitability-Analysis&theme=react" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=akashkk25&repo=Movie-Profitability-Analysis&theme=react" />
   </a>
   <a href="https://github.com/AkashKK25/Credit-Card-Default-Prediction-and-Analysis">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=akashkk25&repo=Credit-Card-Default-Prediction-and-Analysis&theme=react" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=akashkk25&repo=Credit-Card-Default-Prediction-and-Analysis&theme=react" />
   </a>
   <a href="https://github.com/AkashKK25/Hospital-Readmission-Prediction-Project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=akashkk25&repo=Hospital-Readmission-Prediction-Project&theme=react" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=akashkk25&repo=Hospital-Readmission-Prediction-Project&theme=react" />
   </a>
   <a href="https://github.com/AkashKK25/Supermarket-Sales-Analyzer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=akashkk25&repo=Supermarket-Sales-Analyzer&theme=react" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=akashkk25&repo=Supermarket-Sales-Analyzer&theme=react" />
   </a>
 </div>
 
@@ -111,14 +111,6 @@ I'm a Data Scientist and Machine Learning Engineer with a Master's from the Univ
   - *Kondaparthi, A.K.; Lee, W.S.; Peres, N.A.*
   - *Sensors 2024, 24, 4836.*
   - [https://doi.org/10.3390/s24154836](https://doi.org/10.3390/s24154836)
-
-<!-- Activity graph -->
-## 📈 Activity Graph
-[![Akash's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=akashkk25&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<!-- Skills radar chart -->
-## 💪 Skills Radar
-![Skills Radar](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=akashkk25&skills=Python,R,SQL,JavaScript,HTML,CSS&width=820)
 
 <!-- Connect with me -->
 ## 🔗 Connect With Me
@@ -148,6 +140,3 @@ I'm a Data Scientist and Machine Learning Engineer with a Master's from the Univ
 <div align="center">
   <h3>If you like my work, consider giving it a ⭐</h3>
 </div>
-
-<!-- Dynamic SVG for contributions -->
-<img src="https://raw.githubusercontent.com/akashkk25/akashkk25/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
