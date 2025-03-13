@@ -122,11 +122,8 @@ I'm a Data Scientist and Machine Learning Engineer with a Master's from the Univ
   <a href="mailto:akashkondaparthi@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://akashkk.github.io" target="_blank">
+  <a href="https://akashkk25.github.io/Data-Portfolio" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portfolio" />
-  </a>
-  <a href="https://twitter.com/akash_kk25" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter" />
   </a>
 </div>
 
@@ -140,3 +137,5 @@ I'm a Data Scientist and Machine Learning Engineer with a Master's from the Univ
 <div align="center">
   <h3>If you like my work, consider giving it a ⭐</h3>
 </div>
+
+![Snake animation](https://github.com/akashkk25/akashkk25/blob/output/github-contribution-grid-snake.svg)
