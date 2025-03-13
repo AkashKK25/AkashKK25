@@ -62,9 +62,9 @@ I'm a Data Scientist and Machine Learning Engineer with a Master's from the Univ
     <td valign="top" width="25%">
       <h3>Visualization & Cloud</h3>
       <div align="center">  
-        <a href="https://powerbi.microsoft.com/" target="_blank"><img style="margin: 10px" src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="Power BI" height="50" /></a>  
-        <a href="https://www.tableau.com/" target="_blank"><img style="margin: 10px" src="https://www.vectorlogo.zone/logos/tableau/tableau-icon.svg" alt="Tableau" height="50" /></a>  
-        <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
+        <a href="https://powerbi.microsoft.com/" target="_blank"><img style="margin: 10px" src="https://logos-world.net/wp-content/uploads/2022/02/Power-BI-Logo-700x394.png" alt="Power BI" height="50" /></a>  
+        <a href="https://www.tableau.com/" target="_blank"><img style="margin: 10px" src="https://vectorwiki.com/images/wbGV8__tableau-software.svg" alt="Tableau" height="50" /></a>  
+        <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://www.logo.wine/a/logo/Amazon_Web_Services/Amazon_Web_Services-Logo.wine.svg" alt="AWS" height="50" /></a>  
         <a href="https://spark.apache.org/" target="_blank"><img style="margin: 10px" src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" alt="Apache Spark" height="50" /></a>  
         <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>
       </div>
